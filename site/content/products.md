@@ -1,14 +1,10 @@
 ---
-title: Our Coffee
+title: Shit Coffee
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+image: /img/Valmont - Social Share.png
+heading: Shit service
+description: We have to be the worst coffee shop under the sun.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
@@ -45,7 +41,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: It's like AIDS in a cup!
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
@@ -99,5 +95,6 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
 
